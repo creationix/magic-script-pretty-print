@@ -1,0 +1,22 @@
+{
+  "name": "magic-script-pretty-print",
+  "version": "1.0.0",
+  "description": "Value pretty-printer for mldb log in magicscript.",
+  "main": "pretty-print.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/creationix/magic-script-pretty-print.git"
+  },
+  "keywords": [
+    "magic-script"
+  ],
+  "author": "Tim Caswell",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/creationix/magic-script-pretty-print/issues"
+  },
+  "homepage": "https://github.com/creationix/magic-script-pretty-print#readme"
+}
