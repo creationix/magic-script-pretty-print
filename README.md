@@ -10,3 +10,14 @@ import { p } from "magic-script-pretty-print";
 // Pretty-print any value.  This shows lots of information in pretty colors.
 p({ some: "Value" });
 ```
+
+## Screenshot
+
+This is the result of running the following:
+
+```js
+import * as uv from "uv";
+p(uv);
+```
+
+![image](https://user-images.githubusercontent.com/89353/70291665-6fbc3400-17a1-11ea-9375-f654d7f87753.png)
