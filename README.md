@@ -2,6 +2,14 @@
 
 Value pretty-printer for mldb log in magicscript.
 
+## Install
+
+Add to your magicscript application using npm.
+
+```sh
+npm i magic-script-pretty-print
+```
+
 ## Usage
 
 ```js
